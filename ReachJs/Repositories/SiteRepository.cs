@@ -13,6 +13,8 @@ namespace ReachJs.Repositories
             new Site{ Id = 1, Name  = "ASite1", Pumps = new List<Pump>{ new Pump{ Id = 1, Name = "Pump1" }, new Pump { Id = 2, Name = "Pump2" } } },
             new Site{ Id = 2, Name  = "BSite2", Pumps = new List<Pump>{ new Pump{ Id = 3, Name = "Pump3" }, new Pump { Id = 4, Name = "Pump4" } } },
             new Site{ Id = 3, Name  = "CSite3", Pumps = new List<Pump>{ new Pump{ Id = 5, Name = "Pump5" }} },
+            new Site{ Id = 4, Name  = "ASite2", Pumps = new List<Pump>{ new Pump{ Id = 6, Name = "Pump6" }, new Pump { Id = 7, Name = "Pump7" } } },
+
 
         };
 
