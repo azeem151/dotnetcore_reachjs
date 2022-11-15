@@ -20,7 +20,6 @@ export class FindSite extends Component {
     }
 
     render() {
-        const {error, loading, sites} = this.state;
         return (
             <div>
                 <p>Following sites are available to search, ASite1, BSite2, CSite3, ASite2</p>
